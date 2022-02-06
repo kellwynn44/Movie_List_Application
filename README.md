@@ -1,3 +1,3 @@
-# SWDVproject1
-Movie List Application
-Read ME
+# SWDV project for Jenny Wokerstein's class
+Movie List Application using Asp.NET
+
